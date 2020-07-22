@@ -9,3 +9,5 @@
  - 📫 You can reach me at
    - ayaankhan98@gmail.com
    - [LinkedIn](https://www.linkedin.com/in/ayaan-khan-873736192/)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayaankhan98&show_icons=true&hide_border=true)
