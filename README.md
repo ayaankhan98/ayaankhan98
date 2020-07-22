@@ -2,7 +2,7 @@
 
  Currently a student at [ZHCET, AMU](https://amu.ac.in/). Persuing B.Tech in Computer Engineering. 
 
-- 🔭 Currently learning flutter with dart
+- 🔭 Currently learning Flutter with dart
 
 - 🌱 I always love to learn new stuff
 
