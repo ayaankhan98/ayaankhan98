@@ -1,4 +1,4 @@
-### Hi there 👋 I'm [Ayaan](https://ayaankhan.me).
+### Hi there 👋 I'm [Ayaan](https://ayaankhan98.github.io).
 
 ![](https://komarev.com/ghpvc/?username=ayaankhan98&color=green)
 
